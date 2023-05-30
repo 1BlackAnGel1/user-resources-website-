@@ -118,6 +118,35 @@
 .card-resource {
   background-color: #ccffcc;
 }
+
+.card-user {
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+
+.card-user-1 {
+      background-color: #7b5a5a;
+    }
+    .card-user-2 {
+      background-color: #d07a7a;
+    }
+
+    .card-user-3 {
+      background-color: #b82222;
+    }
+
+    .card-user-4 {
+      background-color: #b84f91;
+    }
+      .card-user-5 {
+      background-color: #8f5a7f;
+      }
+      .card-user-6 {
+      background-color: #7b3f89;
+      }
+    
   </style>
 </head>
 <body>
@@ -181,7 +210,7 @@
       <div class="tab-pane fade show active" id="tab-home">
         <div class="row" id="card-row">
           <div class="col">
-            <div class="card card-user">
+            <div class="card card-user-1">
               
               <div class="card-body">
                 <h5 class="card-title">George Bluth</h5>
@@ -190,7 +219,7 @@
             </div>
           </div>
           <div class="col">
-            <div class="card card-user">
+            <div class="card card-user-2">
               
               <div class="card-body">
                 <h5 class="card-title">Janet Weaver</h5>
@@ -199,7 +228,7 @@
             </div>
           </div>
           <div class="col">
-            <div class="card card-user">
+            <div class="card card-user-3">
              
               <div class="card-body">
                 <h5 class="card-title">Ed Wong</h5>
@@ -208,7 +237,7 @@
             </div>
           </div>
           <div class="col">
-            <div class="card card-user">
+            <div class="card card-user-4">
               
               <div class="card-body">
                 <h5 class="card-title">Eve Holt</h5>
@@ -217,7 +246,7 @@
             </div>
           </div>
           <div class="col">
-            <div class="card card-user">
+            <div class="card card-user-5">
              
               <div class="card-body">
                 <h5 class="card-title">Charles Morris</h5>
@@ -226,7 +255,7 @@
             </div>
           </div>
           <div class="col">
-            <div class="card card-user">
+            <div class="card card-user-6">
               
               <div class="card-body">
                 <h5 class="card-title">Tracey Ramos</h5>
