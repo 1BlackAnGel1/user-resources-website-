@@ -192,78 +192,78 @@
             <div class="col">
               <div class="card">
                 <img
-                  src="1.jpg"
+                  src="https://reqres.in/img/faces/7-image.jpg"
                   class="card-img-top"
                   alt="..."
                 />
                 <div class="card-body">
-                  <h5 class="card-title">George Bluth</h5>
-                  <p class="card-text">george.bluth@reqres.in</p>
+                  <h5 class="card-title">Michael Lawson</h5>
+                  <p class="card-text">michael.lawson@reqres.in</p>
                 </div>
               </div>
             </div>
             <div class="col">
               <div class="card">
                 <img
-                  src="2.jpg"
+                  src="https://reqres.in/img/faces/8-image.jpg"
                   class="card-img-top"
                   alt="..."
                 />
                 <div class="card-body">
-                  <h5 class="card-title">Janet Weaver</h5>
-                  <p class="card-text">janet.weaver@reqres.ink</p>
+                  <h5 class="card-title">Lindsay Ferguson</h5>
+                  <p class="card-text">lindsay.ferguson@reqres.in</p>
                 </div>
               </div>
             </div>
             <div class="col">
               <div class="card">
                 <img
-                  src="3.jpg"
+                  src="https://reqres.in/img/faces/9-image.jpg"
                   class="card-img-top"
                   alt="..."
                 />
                 <div class="card-body">
-                  <h5 class="card-title">Ed Wong</h5>
-                  <p class="card-text">emma.wong@reqres.in</p>
+                  <h5 class="card-title">Tobias Funke</h5>
+                  <p class="card-text">tobias.funke@reqres.in</p>
                 </div>
               </div>
             </div>
             <div class="col">
               <div class="card">
                 <img
-                  src="4.jpg"
+                  src="https://reqres.in/img/faces/10-image.jpg"
                   class="card-img-top"
                   alt="..."
                 />
                 <div class="card-body">
-                  <h5 class="card-title">Eve Holt</h5>
-                  <p class="card-text">eve.holt@reqres.in</p>
+                  <h5 class="card-title">Byron Fields</h5>
+                  <p class="card-text">byron.fields@reqres.in</p>
                 </div>
               </div>
             </div>
             <div class="col">
               <div class="card">
                 <img
-                  src="5.jpg"
+                  src="https://reqres.in/img/faces/11-image.jpg"
                   class="card-img-top"
                   alt="..."
                 />
                 <div class="card-body">
-                  <h5 class="card-title">Charles Morris</h5>
-                  <p class="card-text">charles.morris@reqres.in</p>
+                  <h5 class="card-title">George Edwards</h5>
+                  <p class="card-text">george.edwards@reqres.in</p>
                 </div>
               </div>
             </div>
             <div class="col">
               <div class="card">
                 <img
-                  src="6.jpg"
+                  src="https://reqres.in/img/faces/12-image.jpg"
                   class="card-img-top"
                   alt="..."
                 />
                 <div class="card-body">
-                  <h5 class="card-title">Tracey Ramos</h5>
-                  <p class="card-text">tracey.ramos@reqres.in</p>
+                  <h5 class="card-title">Rachel  Howell</h5>
+                  <p class="card-text">rachel.howell@reqres.inn</p>
                 </div>
               </div>
             </div>
@@ -329,4 +329,3 @@
     </div>
   </body>
 </html>
-
